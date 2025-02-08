@@ -16,4 +16,9 @@ public class UserService {
 		
 	}
 
+	public User getUserById(int userId) {
+		// TODO Auto-generated method stub
+		return getUserById(userId);
+	}
+
 }
